@@ -1,0 +1,15 @@
+{
+    "name": "fireship",
+    "version": "2.0.0",
+    "description": "Awesome content for developers",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Jeff Delaney",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
